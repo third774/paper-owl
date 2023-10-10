@@ -188,7 +188,7 @@
     "terminal.ansiWhite": "#F2F0E5",
     "terminal.ansiBrightYellow": "#D0A215",
     "terminal.ansiYellow": "#AD8301",
-    "terminal.background": "#F2F0E5",
+    "terminal.background": "#FFFCF0",
     "terminal.foreground": "#100F0F"
   },
   "tokenColors": [
