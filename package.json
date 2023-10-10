@@ -1,22 +1,20 @@
 {
-  "name": "night-owl",
-  "displayName": "Night Owl",
-  "description": "A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+  "name": "paper-owl",
+  "displayName": "Paper Owl",
+  "description": "An adaptation of Steph Ango's Flexoki color scheme https://stephango.com/flexoki",
   "version": "2.0.1",
-  "publisher": "sdras",
+  "publisher": "third774",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdras/night-owl-vscode-theme"
+    "url": "https://github.com/third774/paper-owl-vscode-theme"
   },
   "keywords": [
     "Theme",
     "Dark Theme",
     "Light Theme",
-    "Night Owl",
+    "Paper Owl",
     "Night Theme",
-    "Light Owl",
-    "Snow Owl",
     "Early Bird",
     "Accessible Theme"
   ],
@@ -24,7 +22,7 @@
     "publish": "vsce publish"
   },
   "galleryBanner": {
-    "color": "#061526",
+    "color": "#100F0F",
     "theme": "dark"
   },
   "engines": {
@@ -37,24 +35,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Owl",
+        "label": "Paper Owl",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night Owl-color-theme.json"
+        "path": "./themes/Paper Owl-color-theme.json"
       },
       {
-        "label": "Night Owl (No Italics)",
+        "label": "Paper Owl (No Italics)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night Owl-color-theme-noitalic.json"
+        "path": "./themes/Paper Owl-color-theme-noitalic.json"
       },
       {
-        "label": "Night Owl Light",
+        "label": "Paper Owl Light",
         "uiTheme": "vs",
-        "path": "./themes/Night Owl-Light-color-theme.json"
+        "path": "./themes/Paper Owl-Light-color-theme.json"
       },
       {
-        "label": "Night Owl Light (No Italics)",
+        "label": "Paper Owl Light (No Italics)",
         "uiTheme": "vs",
-        "path": "./themes/Night Owl-Light-color-theme-noitalic.json"
+        "path": "./themes/Paper Owl-Light-color-theme-noitalic.json"
       }
     ]
   }
