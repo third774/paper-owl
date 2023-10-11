@@ -209,7 +209,7 @@
       "name": "Deleted",
       "scope": "markup.deleted.diff",
       "settings": {
-        "foreground": "#EF535090",
+        "foreground": "#D14D4190",
         "fontStyle": "italic"
       }
     },
@@ -352,7 +352,7 @@
       "name": "Class name",
       "scope": ["entity.name.class", "meta.class entity.name.type.class"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -508,7 +508,7 @@
       "name": "Double-Slashed Comment",
       "scope": "comment.line.double-slash",
       "settings": {
-        "foreground": "#939dbb"
+        "foreground": "#6F6E69"
       }
     },
     {
@@ -544,7 +544,7 @@
       "name": "Punctuation Definition String",
       "scope": "punctuation.definition.string",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -593,7 +593,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#57eaf1"
+        "foreground": "#205EA6"
       }
     },
     {
@@ -651,7 +651,7 @@
       "name": "Punctuation Definition Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -686,7 +686,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#111111",
+        "foreground": "#100F0F",
         "fontStyle": "italic"
       }
     },
@@ -777,7 +777,7 @@
       "name": "Invalid Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#8BD649"
+        "foreground": "#66800B"
       }
     },
     {
@@ -851,7 +851,7 @@
         "punctuation.definition.list"
       ],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -903,7 +903,7 @@
       "name": "CoffeScript Variable Assignment",
       "scope": "variable.assignment.coffee",
       "settings": {
-        "foreground": "#31e1eb"
+        "foreground": "#24837B"
       }
     },
     {
@@ -1093,7 +1093,7 @@
       "name": "C++ Meta Namespace",
       "scope": ["meta.namespace-block.cpp"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1114,7 +1114,7 @@
       "name": "C++ Variable Parameter",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1157,7 +1157,7 @@
       "name": "JavaScript Classes",
       "scope": "meta.class entity.name.type.class.js",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1195,7 +1195,7 @@
       "name": "Other Variables in Code Documentations",
       "scope": ["variable.other.jsdoc", "variable.other.phpdoc"],
       "settings": {
-        "foreground": "#78ccf0"
+        "foreground": "#205EA6"
       }
     },
     {
@@ -1240,7 +1240,7 @@
       "name": "JavaScript Entity Name Type",
       "scope": ["entity.name.type.js", "entity.name.type.module.js"],
       "settings": {
-        "foreground": "#111111",
+        "foreground": "#100F0F",
         "fontStyle": ""
       }
     },
@@ -1269,7 +1269,7 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#c789d6"
+        "foreground": "#5E409D"
       }
     },
     {
@@ -1392,7 +1392,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#ff869a"
+        "foreground": "#A02F6F"
       }
     },
     {
@@ -1442,14 +1442,14 @@
       "name": "PHP Variables",
       "scope": ["variable.other.php", "variable.other.property.php"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
       "name": "Support Classes in PHP",
       "scope": "support.class.php",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1558,7 +1558,7 @@
         "source.css.sass meta.at-rule variable"
       ],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1609,7 +1609,7 @@
       "name": "TypeScript[React] Entity Name Types",
       "scope": ["entity.name.type.ts", "entity.name.type.tsx"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1662,7 +1662,7 @@
       "name": "YAML Entity Name Tags",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
@@ -1695,14 +1695,14 @@
       "name": "TypeScript Classes",
       "scope": "meta.class entity.name.type.class.tsx",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
       "name": "TypeScript Entity Name Type",
       "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#100F0F"
       }
     },
     {
