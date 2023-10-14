@@ -522,7 +522,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
@@ -551,14 +551,14 @@
       "name": "Punctuation Definition String Markdown",
       "scope": "punctuation.definition.string.begin.markdown",
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
@@ -1076,7 +1076,7 @@
         "source.go constant.other.placeholder.go"
       ],
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
@@ -1100,7 +1100,7 @@
       "name": "C++ Language Primitive Storage",
       "scope": ["storage.type.language.primitive.cpp"],
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
@@ -1283,7 +1283,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
@@ -1477,7 +1477,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#AF3029"
+        "foreground": "#D14D41"
       }
     },
     {
