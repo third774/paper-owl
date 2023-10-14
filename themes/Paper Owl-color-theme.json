@@ -149,11 +149,11 @@
     // Status Bar
     "statusBar.background": "#282726",
     "statusBar.border": "#343331",
-    "statusBar.debuggingBackground": "#F2F0E5",
-    "statusBar.debuggingForeground": "#403E3C",
+    "statusBar.debuggingBackground": "#282726",
+    "statusBar.debuggingForeground": "#878580",
     "statusBar.foreground": "#878580",
-    "statusBar.noFolderBackground": "#F2F0E5",
-    "statusBar.noFolderForeground": "#403E3C",
+    "statusBar.noFolderBackground": "#282726",
+    "statusBar.noFolderForeground": "#878580",
     // Panel
     "panel.background": "#1C1B1A",
     "panel.border": "#878580",
