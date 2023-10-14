@@ -155,8 +155,8 @@
     "statusBar.noFolderBackground": "#F2F0E5",
     "statusBar.noFolderForeground": "#403E3C",
     // Panel
-    "panel.background": "#F2F0E5",
-    "panel.border": "#DAD8CE",
+    "panel.background": "#1C1B1A",
+    "panel.border": "#878580",
     // Peek View
     "peekView.border": "#575653",
     "peekViewEditor.background": "#1C1B1A",
@@ -188,8 +188,8 @@
     "terminal.ansiWhite": "#F2F0E5",
     "terminal.ansiBrightYellow": "#D0A215",
     "terminal.ansiYellow": "#AD8301",
-    "terminal.background": "#FFFCF0",
-    "terminal.foreground": "#100F0F"
+    "terminal.background": "#1C1B1A",
+    "terminal.foreground": "#DAD8CE"
   },
   "tokenColors": [
     {
