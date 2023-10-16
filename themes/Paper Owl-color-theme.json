@@ -135,9 +135,9 @@
     "editorHoverWidget.border": "#343331",
     "debugExceptionWidget.background": "#F2F0E5",
     "debugExceptionWidget.border": "#DAD8CE",
-    "editorMarkerNavigation.background": "#DAD8CE",
-    "editorMarkerNavigationError.background": "#f76e6e",
-    "editorMarkerNavigationWarning.background": "#daaa01",
+    "editorMarkerNavigation.background": "#343331",
+    "editorMarkerNavigationError.background": "#D14D41",
+    "editorMarkerNavigationWarning.background": "#D0A215",
     // Debug
     "debugToolBar.background": "#1C1B1A",
     // Picker Group
@@ -501,7 +501,7 @@
       "name": "Keyword Operator Ternary",
       "scope": "keyword.operator.ternary",
       "settings": {
-        "foreground": "#3AA99F"
+        "foreground": "#D0A215"
       }
     },
     {
@@ -701,7 +701,7 @@
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#4385BE",
+        "foreground": "#CE5D97",
         "fontStyle": "italic"
       }
     },
@@ -729,7 +729,7 @@
         "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
-        "foreground": "#8B7EC8",
+        "foreground": "#879A39",
         "fontStyle": "italic"
       }
     },
@@ -742,7 +742,7 @@
         "keyword.control.switch.ts"
       ],
       "settings": {
-        "foreground": "#8B7EC8",
+        "foreground": "#D0A215",
         "fontStyle": ""
       }
     },
