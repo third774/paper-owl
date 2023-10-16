@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/third774/paper-owl-vscode-theme"
+    "url": "https://github.com/third774/paper-owl"
   },
   "keywords": [
     "Theme",
@@ -31,7 +31,6 @@
   "categories": [
     "Themes"
   ],
-  "icon": "owl-icon.png",
   "contributes": {
     "themes": [
       {
