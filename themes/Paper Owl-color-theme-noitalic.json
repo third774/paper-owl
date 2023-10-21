@@ -88,7 +88,7 @@
     // Editor
     "editor.background": "#1C1B1A",
     "editor.foreground": "#F2F0E5",
-    "editorCursor.foreground": "#90A7B2",
+    "editorCursor.foreground": "#CECDC3",
     "editorLineNumber.foreground": "#B7B5AC",
     "editorLineNumber.activeForeground": "#343331",
     "editor.selectionBackground": "#4385BE33",
