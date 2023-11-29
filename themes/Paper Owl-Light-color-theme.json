@@ -232,7 +232,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#989fb1",
+        "foreground": "#6F6E69",
         "fontStyle": "italic"
       }
     },
