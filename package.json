@@ -5,6 +5,7 @@
   "version": "1.0.2",
   "publisher": "third774",
   "license": "SEE LICENSE IN LICENSE.md",
+  "icon": "paper-owl.webp",
   "repository": {
     "type": "git",
     "url": "https://github.com/third774/paper-owl"
