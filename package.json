@@ -1,8 +1,8 @@
 {
   "name": "paper-owl",
   "displayName": "Paper Owl",
-  "description": "An adaptation of Steph Ango's Flexoki color scheme https://stephango.com/flexoki",
-  "version": "2.0.1",
+  "description": "An adaptation of Steph Ango's Flexoki color theme",
+  "version": "1.0.0",
   "publisher": "third774",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -19,6 +19,7 @@
     "Accessible Theme"
   ],
   "scripts": {
+    "package": "vsce package",
     "publish": "vsce publish"
   },
   "galleryBanner": {
@@ -54,5 +55,8 @@
         "path": "./themes/Paper Owl-Light-color-theme-noitalic.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0"
   }
 }
