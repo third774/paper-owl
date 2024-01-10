@@ -152,6 +152,7 @@
     "statusBar.debuggingBackground": "#282726",
     "statusBar.debuggingForeground": "#878580",
     "statusBar.foreground": "#878580",
+    "statusBarItem.errorBackground": "#AF3029",
     "statusBar.noFolderBackground": "#282726",
     "statusBar.noFolderForeground": "#878580",
     // Panel
